@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello world
+          THis is the second chnge to the main app, creating container second on build stage
         </p>
         <a
           className="App-link"
