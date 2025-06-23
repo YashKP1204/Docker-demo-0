@@ -25,7 +25,5 @@ From nginx
 
 Copy --from=build /app/build  /usr/share/nginx/html
 
-
-
-
-
+Ultimately the multistage build allow us to create the effecient , small and optimized images with lean production . 
+Thus images with smaller size take less time to run , optimizing the storage space and provide the necessary resource requied thus providing security with less visibilty to underlying unnecessary code.     
